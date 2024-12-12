@@ -1,0 +1,1 @@
+A solution to an optimization problem developed for the Advanced Topics in Mathematics for Computation (Calculus) course, part of the Systems Analysis and Development course curriculum in Instituto Federal de São Paulo's Jacareí campus.

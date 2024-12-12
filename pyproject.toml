@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cal-optimal"
+version = "0.1.0"
+description = "A solution to an optimization problem developed for the Advanced Topics in Mathematics for Computation (Calculus) course, part of the Systems Analysis and Development course curriculum in Instituto Federal de São Paulo's Jacareí campus."
+authors = ["Juno Takano <juno.takano@aluno.ifsp.edu.br>"]
+license = "BSD-3-Clause"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+matplotlib = "^3.9.2"
+pyqt6 = "^6.7.1"
+numpy = "^2.1.2"
